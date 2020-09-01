@@ -7,5 +7,5 @@ public class User {
     private int age;
     private char gender;
     private String like;
-    private HashMap hashMap;
+
 }
